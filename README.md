@@ -66,7 +66,7 @@ The Global Cloud Asset Management & Cyber Asset Attack Surface Management (CAASM
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Prowler](https://github.com/prowler-cloud/prowler)** [![Stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white)](https://github.com/prowler-cloud/prowler/stargazers) 🛡️  
   **Comprehensive cloud security assessment and asset discovery tool**, Apache-2.0 licensed. **Over 11,500+ stars**. **553 checks for AWS, 138 for Azure, 77 for GCP, 83 for Kubernetes** covering CIS, NIST, PCI-DSS, GDPR, HIPAA, SOC2. **Resource discovery and compliance assessment** in one tool. Includes **Prowler App** dashboard and **OCSF v1.1.0 JSON** export.
@@ -112,7 +112,7 @@ Contributions are welcome! Follow these steps to submit new resource discovery p
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count badge, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count badge, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
@@ -146,3 +146,12 @@ If you find this cloud resource search and discovery repository useful, please c
 <p align="center">
   <b>Made with ❤️ for cloud engineers, security teams, and open-source discovery advocates.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Cloud-Resource-Search-Discovery&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Cloud-Resource-Search-Discovery_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Cloud-Resource-Search-Discovery_growth.svg">
+  </picture>
+</a>
